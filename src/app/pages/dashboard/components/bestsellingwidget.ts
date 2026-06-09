@@ -59,7 +59,7 @@ import { MenuModule } from 'primeng/menu';
                 </div>
                 <div class="mt-2 md:mt-0 ml-0 md:ml-20 flex items-center">
                     <div class="bg-surface-300 dark:bg-surface-500 rounded-border overflow-hidden w-40 lg:w-24" style="height: 8px">
-                        <div class="bg-green-500 h-full" style="width: 35%"></div>
+                        <div class="bg-orange-500 h-full" style="width: 35%"></div>
                     </div>
                     <span class="text-primary ml-4 font-medium">%35</span>
                 </div>
